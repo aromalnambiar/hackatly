@@ -11,7 +11,8 @@ const Legacy = () => {
                     <LegacyTxt><LegacySpan>Our</LegacySpan> <br /> Legacy</LegacyTxt>
                 </ForLegacy>
                 <ForDesc>
-                    <ParaText>Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum  Lorem </ParaText>
+                    <ParaText>HACKTLY-23 is a 2 day hackathon conducted by IEDC College of Engineering Thalassery as part of our tech fest Agnitus.
+In this event we'll provide certain problem statements and each team has to bring the most useful and economical solutions that can be worked out in the proper manner. The time limit will be 48 hours. The event is scheduled for 4 and 5 May 2023.We aim to invite 25+ teams all over the state to solve the problem statements identified.</ParaText>
                     <HeadingsTop>
                         <MainHead>HACK<SpanHead>A</SpanHead>TLY<HifenSpan>-</HifenSpan><SpanHead>22</SpanHead></MainHead>
                     </HeadingsTop>
